@@ -72,3 +72,6 @@ Durante el laboratorio se uso IA como apoyo tecnico y de redaccion en los siguie
 
 6. Parafrasear comentarios explicativos
 	- Se reformularon comentarios para que fueran mas claros y directos, manteniendo el sentido tecnico y el estilo del proyecto.
+
+### Enlace al Video
+https://drive.google.com/file/d/1ohk-RzpFtjt7e-BPQd6fdJ8w9BxE46nz/view?usp=sharing
